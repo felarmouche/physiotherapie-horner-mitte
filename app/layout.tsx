@@ -5,7 +5,7 @@ import Navigation from './components/Navigation'
 import Footer from './components/Footer'
 
 export const metadata = {
-  title: 'Physio Reitenbach',
+  title: 'Physiotherapie Horner-Mitte',
   description: 'Moderne Physiotherapie-Praxis in Ihrer Nähe',
 }
 

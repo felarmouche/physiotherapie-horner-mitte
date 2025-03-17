@@ -14,10 +14,10 @@ interface TeamMember {
 const teamMembers: TeamMember[] = [
     {
         id: 1,
-        name: "John Doe",
-        role: "Praxisinhaber/Physiotherapeut",
+        name: "L. Treptov",
+        role: "Praxisinhaberin/Physiotherapeutin",
         image: "/images/team/john.jpg",
-        bio: "John ist unser erfahrener Praxisinhaber und Physiotherapeut mit über 20 Jahren Expertise in der Behandlung von Patienten.",
+        bio: "L. Treptow ist unsere erfahrener Praxisinhaberin und Physiotherapeutin.",
     },
     {
         id: 2,

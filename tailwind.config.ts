@@ -10,9 +10,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: { DEFAULT: colors.teal[700] },
+        primary: { DEFAULT: colors.yellow[500] },
         secondary: { DEFAULT: colors.teal[900] },
-        accent: { DEFAULT: colors.zinc[600] },
+        accent: { DEFAULT: colors.zinc[400] },
       },
     },
   },

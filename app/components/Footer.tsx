@@ -31,11 +31,11 @@ export default function Footer() {
           
           {/* Firmeninfo */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Physio Reitenbach</h3>
+            <h3 className="text-xl font-bold mb-4">Physiotherapie Horner Mitte</h3>
             <p className="text-gray-300">
-              A. Reitenbach Physiotherapie<br />
-              Papenstieg 8<br />
-              38100 Braunschweig
+              L. Treptow Physiotherapie<br />
+              Leher Heerstr.1 <br />
+              28359 Bremen
             </p>
           </div>
 
@@ -54,9 +54,8 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-3">Kontakt</h4>
             <ul className="space-y-2 text-gray-300">
-              <li>E-Mail: <a href="mailto:info@reitenbach-therapie.de" className="hover:text-accent transition">info@reitenbach-therapie.de</a></li>
-              <li>Telefon: <a href="tel:+4953160942061" className="hover:text-accent transition">0531/60942061</a></li>
-              <li>Mobil: <a href="tel:+4917640459297" className="hover:text-accent transition">0176/40459297</a></li>
+              <li>E-Mail: <a href="mailto:info@Treptow-therapie.de" className="hover:text-accent transition">physio@horner-mitte.de</a></li>
+              <li>Telefon: <a href="tel:+4953160942061" className="hover:text-accent transition">0421/22347822</a></li>
             </ul>
           </div>
 
@@ -81,7 +80,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 border-t border-primary pt-4 text-center text-white text-sm">
-          &copy; {new Date().getFullYear()} Physio Reitenbach. Alle Rechte vorbehalten.
+          &copy; {new Date().getFullYear()} Physio Treptow. Alle Rechte vorbehalten.
         </div>
       </div>
     </footer>

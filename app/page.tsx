@@ -25,7 +25,7 @@ export default function HomePage() {
       </section>
       <section id="about">
           <AboutPraxis
-              companyName="Physiotherapie "
+              companyName="Physiotherapie Horner Mitte"
               welcomeMessage="Herzlich Willkommen bei"
               description1="Es freut uns sehr, dass Sie den Weg zu uns gefunden haben. Gemeinsam starten wir jetzt, um Ihre Gesundheit und Mobilität nachhaltig wiederherzustellen."
               description2="Ihre Gesundheit und Ihr Wohlbefinden sind uns wichtig. Deshalb arbeiten wir gerne mit Ihren Ärzten und Therapeuten zusammen."
