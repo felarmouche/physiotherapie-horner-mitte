@@ -1,34 +1,5 @@
-# Node Modules & PnP
 node_modules/
-.pnp/
-.pnp.js
-
-# Next.js build output
 .next/
-out/
+dist/
 build/
-
-# Coverage (falls du Tests mit Jest oder ähnlichem nutzt)
-coverage/
-
-# Log Files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Env-Dateien (lokale Umgebungsvariablen sollten nicht ins Repository)
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Betriebssystem-spezifische Dateien
-.DS_Store
-
-# IDE-/Editor-spezifische Dateien
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
+.env
